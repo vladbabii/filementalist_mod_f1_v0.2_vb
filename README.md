@@ -8,5 +8,8 @@ Source: https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommen
 - M4x12 mm center hole
 - made the middle area thicker
 
-## Wheel Connecto
+## Wheel Connector
 - uses m4 square nuts to hold screw from wheel
+
+## Front and Back wheels
+- use m4 screws to mount to wheel Connector
