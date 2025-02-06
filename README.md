@@ -1,2 +1,3 @@
-# filementalist_mod_f1_v0.2_vb
-Filementalist mod f1 modified
+# Chasis
+- M4x12 mm center hole
+- made the middle area thicker
