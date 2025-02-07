@@ -2,7 +2,7 @@ Source: https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommen
 
 ## Bearing Mount
 - 2 holes left for m3 screw head
-- 2 holes on the right are for square nut (6x6x2 mm)
+- 2 holes on the right are for square nut (6x6x2 mm), requires m3 x 18 mm screw to connect
 
 ## Chasis
 - M4x12 mm center hole
@@ -13,3 +13,6 @@ Source: https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommen
 
 ## Front and Back wheels
 - use m4 screws to mount to wheel Connector
+
+## Front connector
+- 9.4 mm hole for PC-04 pfte connector
