@@ -13,6 +13,8 @@ Source: https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommen
 
 ## Front and Back wheels
 - use m4 screws to mount to wheel Connector
+- each wheel can be screwed in the square nuts using m4 x 16mm hexagon inbus screws
+- each wheel needs 2 m4 washers
 
 ## Front connector
 - 9.4 mm hole for PC-04 pfte connector
