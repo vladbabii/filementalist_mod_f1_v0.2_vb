@@ -17,3 +17,6 @@ Source: https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommen
 
 ## Front connector
 - 9.4 mm hole for PC-04 pfte connector
+
+## Front shaft
+- uses m3 x 50 mm to make sure it's rigid enough
